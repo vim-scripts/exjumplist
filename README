@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2857
+
+*exjumplist* is a Vim plugin to provide extra commands for |jumplist|:
+
+- Go to the next/previous position in different buffer.
+- Go to the first/last position in jumplist
+
+
+Requirements:
+- Vim 7.2 or later
+
+Latest version:
+http://github.com/kana/vim-exjumplist
+
+Document in HTML format:
+http://kana.github.com/config/vim/exjumplist.html
